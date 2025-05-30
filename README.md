@@ -7,9 +7,11 @@ A simple C++ console app that counts down important things until all tasks are d
 - User input
 - Clean output
 - Simple and easy to understand
+- bass'ok
 
 ## 📷 Example
-![image](https://github.com/user-attachments/assets/91cec7ae-63c6-483f-aa0d-dde886ba716d)
+![image](https://github.com/user-attachments/assets/88b5e524-3cf3-4bd3-8f69-6ec3d40b02f7)
+
 
 ### Using g++:
 

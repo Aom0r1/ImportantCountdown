@@ -1,0 +1,7 @@
+# C++ build
+*.exe
+*.o
+*.obj
+*.out
+*.log
+build/
